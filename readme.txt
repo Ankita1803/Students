@@ -2,7 +2,7 @@ Here are steps to run the project
 
 I.  Create Database in firebase
 
-    1.  Create Datebase
+    1.  Create Database
     2.  Start in test mode and then click to next and enable
     3.  Go to project setting on upper left border and select Service Account,
         Then generate private key and rename that file as 'serviceAccount.json' and put 'serviceAccount.json' in index.js file
