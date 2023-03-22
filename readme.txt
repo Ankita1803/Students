@@ -1,6 +1,6 @@
 Here are steps to run the project
 
-I.  Create Datebase in firebase
+I.  Create Database in firebase
 
     1.  Create Datebase
     2.  Start in test mode and then click to next and enable
